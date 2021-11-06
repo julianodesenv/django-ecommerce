@@ -13,3 +13,5 @@
 - python manage.py createsuperusers
 - python manage.py runserver
 - python -m pip install django-debug-toolbar
+
+- \env\Scripts\activate.bat
